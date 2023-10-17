@@ -1,7 +1,5 @@
 # Spark-Ethereum-Analysis
 
-# Spark Ethereum Analysis
-
 ## Overview
 This repository contains a comprehensive analysis of Ethereum transactions using Apache Spark. The project delves deep into various aspects of Ethereum transactions, from identifying high gas-consuming transactions to detecting potential scam activities and wash trading patterns.
 
