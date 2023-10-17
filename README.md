@@ -52,7 +52,4 @@ python gassguzzlers/gasguzzlers.py
 
 Feel free to fork this repository, make changes, and submit pull requests. Any contributions, no matter how minor, are greatly appreciated.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
